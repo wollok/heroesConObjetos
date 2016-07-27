@@ -1,9 +1,14 @@
 
 # Héroes - Versión 1
 
-<img src="img/shrek.jpg" height="300" width="200">
+<img src="img/shrek.jpg" height="200" width="300">
 
-Una legión de héroes de la cual sobresale Shrek está dispuesto a encarar diferentes misiones: liberar a la princesa Fiona, custodiada por 4 trolls, un encargo que le hizo Lord Farquaad. Y también buscar la piedra filosofal, que está a 40 kilómetros de distancia, encomendada por el señor Gandalf, perdón, por Mr.DumblecofcofDore. 
+Una legión de héroes de la cual sobresale *Shrek* está dispuesto a encarar diferentes misiones: 
+
+* liberar a la princesa Fiona, custodiada por 4 trolls, un encargo que le hizo Lord Farquaad
+* también buscar la piedra filosofal, que está a 40 kilómetros de distancia, encomendada por el señor Gandalf, perdón, por Mr.DumblecofcofDore. 
+
+Nos gustaría poder agregar más misiones a shrek a futuro.
 
 Sabemos que una misión es difícil
 
