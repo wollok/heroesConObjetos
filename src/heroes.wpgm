@@ -1,0 +1,12 @@
+import heroes.*
+
+program heroes {
+	liberarAFiona.cantidadTrolls(5)
+	liberarAFiona.solicitante("Lord Farquaad")
+	buscarPiedraFilosofal.kilometrosDistancia(40)
+	buscarPiedraFilosofal.solicitante("Mr Dumblecofcofdore")
+	shrek.agregarMision(liberarAFiona)
+	shrek.agregarMision(buscarPiedraFilosofal)
+	console.println(shrek.solicitantesDeMisMisiones())
+	console.println(liberarAFiona.esDificil())
+}
