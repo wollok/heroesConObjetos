@@ -8,7 +8,7 @@ object shrek {
 	method cantidadDeMisiones() = misiones.size()
 	method misionesDificiles() = misiones.filter({ mision => mision.esDificil() })
 	method solicitantesDeMisMisiones() = misiones.map({ mision => mision.solicitante() })
-	method totalPuntosDeRecompensa() = misiones.fold(0, { acum , mision => acum + mision.puntosRecompensa() })
+	method totalPuntosDeRecompensa() = misiones.sum({ mision => mision.puntosRecompensa() })
 }
 
 object liberarAFiona {
