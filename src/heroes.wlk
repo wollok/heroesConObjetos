@@ -24,6 +24,6 @@ object buscarPiedraFilosofal {
 
 	method solicitante() = "Mr DumblecofcofDore"
 	method esDificil() = kilometrosDistancia > 100
-	method puntosRecompensa() = if (kilometrosDistancia > 50) return 10 else return 5
+	method puntosRecompensa() = if (kilometrosDistancia > 50) 10 else 5
 }
 
