@@ -1,4 +1,7 @@
 
+ 
+[![Build Status](https://travis-ci.org/wollok/heroesConObjetos.svg?branch=master)](https://travis-ci.org/wollok/heroesConObjetos)
+
 # Héroes - Versión 1
 
 <img src="img/shrek.jpg" height="200" width="300">
