@@ -1,6 +1,6 @@
 
  
-[![Build Status](https://travis-ci.org/wollok/heroesConObjetos.svg?branch=master)](https://travis-ci.org/wollok/heroesConObjetos)
+[![Build Status](https://github.com/wollok/heroesConObjetos/actions/workflows/ci.yml/badge.svg)](https://github.com/wollok/heroesConObjetos/actions/workflows/ci.yml)
 
 # Héroes - Versión 1
 
